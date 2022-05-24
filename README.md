@@ -4,8 +4,7 @@ Para o funcionamento do mini sistema de irrigação, será necessário fazer as 
 Lista de materiais:
 1.	Placa Konker
 2.	Protoboard
-3.	Sensor de umidade de sol
-rmar ao microcontrolador como um Arduino. Quando o solo está seco a saída do sensor fica em estado alto / nível lógico 1, e quando o solo está úmido a saída do sensor fica em estado baixo / nível lógico 0. O limite entre seco e úmido pode ser ajustado através do potenciômetro presente no sensor que ajustará o ponto exato em que a saída digital D0 alternará seu estado / nível lógico. Uma opção para se ter uma resolução melhor é utilizar a saída analógicaonversor AD ou entrada analógica como presente em placas Arduino. Este sensor utiliza duas pontas de prova para passar a corrente pelo solo e sua leitura é baseada na resistência elétrica resultante. Quanto mais água no solo, mais baixa é a resistência do solo e mais fácil fica a condução entre as pontas de prova. Quando o solo está seco, a condutividade é baixa, logo a resistência é ala.a figura é um módulo de sen
+3.	Sensor de umidade de soloico 1, e quando o solo está úmido a saída do sensor fica em estado baixo / nível lógico 0. O limite entre seco e úmido pode ser ajustado através do potenciômetro presente no sensor que ajustará o ponto exato em que a saída digital D0 alternará seu estado / nível lógico. Uma opção para se ter uma resolução melhor é utilizar a saída analógicaonversor AD ou entrada analógica como presente em placas Arduino. Este sensor utiliza duas pontas de prova para passar a corrente pelo solo e sua leitura é baseada na resistência elétrica resultante. Quanto mais água no solo, mais baixa é a resistência do solo e mais fácil fica a condução entre as pontas de prova. Quando o solo está seco, a condutividade é baixa, logo a resistência é ala.a figura é um módulo de sen
 
 
 4.	Kit jumper macho/macho
