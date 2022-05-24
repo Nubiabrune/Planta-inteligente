@@ -8,13 +8,8 @@ Lista de materiais:
 
 
 4.	Kit jumper macho/macho
-Serve para conexão entre a placa e a protoboard.
- 
-                        Figura 4. Esta figura são jumper para conexão. Fonte: baú da eletrônica. 
-
 5.	Prototipagem eletrônica
 Arduino IDE
-
 6.	Módulo relé 5V
 
 Para conexão da bomba d’água na placa konker. 
