@@ -1,2 +1,5 @@
-
+Planta Inteligente
 Para o funcionamento do mini sistema de irrigação, será necessário fazer as conexões de 5v através dos jumpers da placa konker com a protoboard. Conectar o modulo rele na protoboard também através dos jumpers. Fazer a conexão do modulo na protoboard e conectar o sensor de umidade no modulo. Conectar a saída digital na protoboard e na placa konker. Conectar a bomba d’água no modulo rele e em uma fonte externa de energia.
+RESUMO
+O Projeto se propõe a produzir um artigo e um vídeo demonstrativo para o Curso de Tecnologia em Analise e Desenvolvimento de Sistemas. Para tanto, o artigo cientifico deve apresentar a descrição todo material utilizado, esquema eletrônico, o funcionamento de seu protótipo, com detalhes sobre o funcionamento e acionamento de seus sensores e atuadores e os resultados do projeto. O vídeo deve apresentar o funcionamento do projeto  com um vídeo-demonstração no YouTube de sua apresentação do funcionamento e os resultados de seu teste de funcionamento e explique o funcionamento do hardware e o código desenvolvido.
+
