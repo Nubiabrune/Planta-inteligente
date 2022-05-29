@@ -1,2 +1,0 @@
-
-Para o funcionamento do mini sistema de irrigação, será necessário fazer as conexões de 5v através dos jumpers da placa konker com a protoboard. Conectar o modulo rele na protoboard também através dos jumpers. Fazer a conexão do modulo na protoboard e conectar o sensor de umidade no modulo. Conectar a saída digital na protoboard e na placa konker. Conectar a bomba d’água no modulo rele e em uma fonte externa de energia.
